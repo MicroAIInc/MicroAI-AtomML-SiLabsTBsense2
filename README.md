@@ -25,7 +25,7 @@ Inside the "Documentation" folder are files to describe the following processes:
   * Train a model
   * Observe the inferencing output
   * Test a simple use case
-  * Link and observe the output to the Micro.ai Launchpad dashboard
+  * Link and observe the output to the Micro.ai [Launchpad](https://launchpad.micro.ai/) dashboard
 
   
 Start with the [Quick Start Guide](Documentation/Thunderboard%20Sense%202%20kit%20User%20Guide.pdf).
