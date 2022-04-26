@@ -11,16 +11,24 @@
   <h3 align="center">MicroAI AtomML for the Silicon Labs Thunderboard Sense2</h3>
 
   <p align="center">
-    This repository provides the documentation and binary file necessary to evaluate the MicroAI AtomML code running on the Silicon Labs Thunderboard Sense 2 board.
+    This repository provides the documentation and binary file(s) necessary to evaluate the MicroAI AtomML code running on the Silicon Labs Thunderboard Sense 2 board.
     <br />
     
 
 
 
-<!-- Additional Documentation -->
-### Additional Documentation
-Inside the "Documentation" folder are files to describe the process of loading the firmware to the board, test the operation by observing the text output on the serial port, training a model, and linking the output to the Micro.ai Launchpad dashboards.
-Start with the [Quick Start Guide](Documentation/Thunderboard%20Sense%202%20kit%20User%20Guide.pdf)
+<!-- Documentation -->
+### Documentation
+Inside the "Documentation" folder are files to describe the following processes:
+  * Loading the firmware onto the board
+  * Observe the operation by viewing the text output on the serial port
+  * Train a model
+  * Observe the inferencing output
+  * Test a simple use case
+  * Link and observe the output to the Micro.ai [Launchpad](https://launchpad.micro.ai/) dashboard
+
+  
+Start with the [Quick Start Guide](Documentation/Thunderboard%20Sense%202%20kit%20User%20Guide.pdf).
 
 
 
@@ -34,7 +42,7 @@ See  [Software Evaluation Licensing Agreement](MicroAI%20Atom%20Evaluation%20Lic
 <!-- CONTACT -->
 ## Contact
 
-Company: ONETech
+Company: Micro.ai
 
 Website: www.micro.ai
 
