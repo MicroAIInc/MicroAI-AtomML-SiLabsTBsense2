@@ -25,7 +25,6 @@ Inside the "Documentation" folder are files to describe the following processes:
   * Train a model
   * Observe the inferencing output
   * Test a simple use case
-  * Link and observe the output to the Micro.ai [Launchpad](https://launchpad.micro.ai/) dashboard
 
   
 Start with the [Quick Start Guide](Documentation/MicroAI-AtomML-Evaluation-Kit-Quick-Start-Guide.pdf).
