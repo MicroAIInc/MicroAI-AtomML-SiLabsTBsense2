@@ -28,7 +28,7 @@ Inside the "Documentation" folder are files to describe the following processes:
   * Link and observe the output to the Micro.ai [Launchpad](https://launchpad.micro.ai/) dashboard
 
   
-Start with the [Quick Start Guide](Documentation/Thunderboard%20Sense%202%20kit%20User%20Guide.pdf).
+Start with the [Quick Start Guide](Documentation/MicroAI-AtomML-Evaluation-Kit-Quick-Start-Guide.pdf).
 
 
 
